@@ -123,3 +123,8 @@ GitHub: [@arcchitasreja31-netizen](https://github.com/arcchitasreja31-netizen)
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+## 📸 Application Screenshots
+
+### Dashboard
+
+![Personal Finance Tracker Dashboard](dashboard.png)
