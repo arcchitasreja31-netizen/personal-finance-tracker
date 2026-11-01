@@ -125,6 +125,14 @@ GitHub: [@arcchitasreja31-netizen](https://github.com/arcchitasreja31-netizen)
 ⭐ If you find this project useful, consider giving the repository a star!
 ## 📸 Application Screenshots
 
-### Dashboard
+### 1. Dashboard
+![Dashboard](dashboard.png)
 
-![Personal Finance Tracker Dashboard](dashboard.png)
+### 2. Login / Registration
+![Login](login.png)
+
+### 3. Transactions
+![Transactions](transactions.png)
+
+### 4. Budget Management
+![Budgets](budgets.png)
