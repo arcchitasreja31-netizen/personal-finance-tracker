@@ -14,7 +14,7 @@ import {
   CartesianGrid,
 } from 'recharts'
 
-const API_BASE = 'http://localhost:5000/api'
+const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:5000/api'
 const API = `${API_BASE}/transactions`
 const AUTH_API = `${API_BASE}/auth`
 const BUDGET_API = `${API_BASE}/budgets`
